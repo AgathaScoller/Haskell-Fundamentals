@@ -1,4 +1,4 @@
-# HASKELL �
+# HASKELL 
 
 ![Haskell](https://img.shields.io/badge/Haskell‑Learning‑blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language‑Haskell‑purple?style=flat-square)
